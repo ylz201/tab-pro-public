@@ -40,10 +40,6 @@ Please include:
 
 Do not post private browsing data or personal information in public issues.
 
-## Paid for Early Access?
-
-Tab Pro used to offer a paid Early Access license. It is now free. If you paid, email support@tabpro.top with the email you paid with or your PayPal transaction ID for a full refund. Details: https://tabpro.top/refund-policy
-
 ## FAQ
 
 ### Is this the source code repository?
