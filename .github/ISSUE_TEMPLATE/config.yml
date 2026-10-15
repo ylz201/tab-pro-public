@@ -2,10 +2,7 @@ blank_issues_enabled: true
 contact_links:
   - name: Email support
     url: mailto:support@tabpro.top
-    about: Use email for private payment details, license keys, or personal information.
+    about: Use email for anything private, such as refund requests or personal information.
   - name: Privacy policy
-    url: https://tabpro.top/privacy.html
+    url: https://tabpro.top/privacy
     about: Read how Tab Pro handles data.
-  - name: Refund policy
-    url: https://tabpro.top/refund-policy.html
-    about: Read the refund policy.
